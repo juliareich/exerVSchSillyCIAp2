@@ -1,0 +1,38 @@
+body {
+
+}
+
+.headline {
+  color:green;
+}
+
+.headline, .subheadline {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+img {
+  float:left;
+  padding-right: 25px;
+}
+
+img, ,paragraph {
+  display: inline;
+  }
+
+
+
+.paragraph {
+  line-height: 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover { text-decoration: underline;}
+
+
+.rec {
+  text-transform: uppercase;
+}
